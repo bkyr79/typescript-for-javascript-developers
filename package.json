@@ -21,6 +21,6 @@
   "devDependencies": {
     "ts-node": "^10.4.0",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.9.10"
+    "typescript": "^3.7.5"
   }
 }
