@@ -1,0 +1,26 @@
+{
+  "name": "takaomiyamashita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takaomiyamashita/htdocs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takaomiyamashita/htdocs/issues"
+  },
+  "homepage": "https://github.com/takaomiyamashita/htdocs#readme",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.10"
+  }
+}
